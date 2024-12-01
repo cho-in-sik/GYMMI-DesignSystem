@@ -2,7 +2,26 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        xs: [
+          '12px',
+          { fontWeight: 400, lineHeight: '16px', letterSpacing: '0.7' },
+        ],
+        md: [
+          '16px',
+          {
+            fontWeight: 400,
+            lineHeight: '16px',
+            letterSpacing: '0.8',
+          },
+        ],
+      },
+      colors: {
+        main: '#3B82F6',
+        buttonInActive: '#EFF6FF',
+      },
+    },
   },
   plugins: [],
 };
