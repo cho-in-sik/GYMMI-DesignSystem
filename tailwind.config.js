@@ -8,6 +8,14 @@ export default {
           '12px',
           { fontWeight: 400, lineHeight: '16px', letterSpacing: '0.7' },
         ],
+        sm: [
+          '14px',
+          {
+            fontWeight: 400,
+            lineHeight: '16px',
+            letterSpacing: '0.7',
+          },
+        ],
         md: [
           '16px',
           {
@@ -22,7 +30,7 @@ export default {
         buttonInActive: '#EFF6FF',
       },
       fontFamily: {
-        custom: ['base', 'yd330'],
+        main: ['yd330', 'sans-serif'],
       },
     },
   },

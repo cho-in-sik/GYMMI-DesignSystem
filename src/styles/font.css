@@ -7,3 +7,7 @@
   font-family: 'yd330';
   src: url('../assets/fonts/yungothic330.ttf') format('truetype');
 }
+
+body: {
+  font-family: 'yd330';
+}
