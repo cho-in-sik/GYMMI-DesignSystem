@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'yd320';
+  src: url('../assets/fonts/yungothic320.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'yd330';
+  src: url('../assets/fonts/yungothic330.ttf') format('truetype');
+}

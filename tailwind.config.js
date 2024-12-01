@@ -21,6 +21,9 @@ export default {
         main: '#3B82F6',
         buttonInActive: '#EFF6FF',
       },
+      fontFamily: {
+        custom: ['base', 'yd330'],
+      },
     },
   },
   plugins: [],
