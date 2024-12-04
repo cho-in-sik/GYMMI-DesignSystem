@@ -56,7 +56,7 @@ export const PrimaryIn: Story = {
 
 export const PrimaryInV2: Story = {
   args: {
-    children: 'Button',
+    children: 'Butto1212n',
     theme: 'inActiveV2',
     isDisabled: false,
   },
