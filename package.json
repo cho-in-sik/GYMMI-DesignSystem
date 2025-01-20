@@ -2,7 +2,7 @@
   "name": "gymmi-designsystem",
   "description": "GYMMI-DesignSystem by gymmiyigi",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "license": "MIT",
   "publishConfig": {
